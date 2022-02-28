@@ -23,3 +23,11 @@
 <li>🖱️  Desenvolvedor Front End com foco em ReactJs</li>
 <li>🔨  Trabalhando atualmente com desenvolvimento de Landing Pages utilizando Wordpress</li>
 </ul>
+
+## Contato
+  
+ <div> 
+  
+  <a href="https://instagram.com/daniel_rezende98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-rezende-5ab74514b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
