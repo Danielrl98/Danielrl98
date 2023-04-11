@@ -19,9 +19,9 @@
 
 ## Sobre mim
 <ul>
-<li>📗  Estudante de Ciencias da Computação</li>
+<li>📗  Ciencias da Computação</li>
 <li>🖱️  Desenvolvedor Front End com foco em ReactJs</li>
-<li>🔨  Trabalhando atualmente com desenvolvimento de Landing Pages utilizando Wordpress</li>
+<li>🔨  Trabalhando atualmente com desenvolvimento de de aplicações Front-End</li>
 </ul>
 
 ## Contato
