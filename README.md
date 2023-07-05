@@ -20,8 +20,7 @@
 ## Sobre mim
 <ul>
 <li>📗  Ciencias da Computação</li>
-<li>🖱️  Desenvolvedor Front End com foco em ReactJs</li>
-<li>🔨  Trabalhando atualmente com desenvolvimento de de aplicações Front-End</li>
+<li>🖱️  Desenvolvedor Full Stack</li>
 </ul>
 
 ## Contato
